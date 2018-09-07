@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>GetFileName</Name>
+  <AddInID>{f2242221-e277-47de-abe9-982f6ba994ae}</AddInID>
+  <Description>Type in a description for this Add-in.</Description>
+  <Version>1.0</Version>
+  <Image>Images\LayerOfMaps.png</Image>
+  <Author>Jan Dolezal</Author>
+  <Company>Aon</Company>
+  <Date>3/8/2018</Date>
+  <Targets>
+    <Target name="Desktop" version="10.6" />
+  </Targets>
+  <AddIn language="CLR" library="LayerOfMaps.dll" namespace="LayerOfMaps">
+    <ArcMap>
+      <Commands>
+        <Button id="Aon_LayerOfMaps_FeatureLayerInspector" class="FeatureLayerInspector" message="Get path of file." caption="General Properties of Layer" tip="Get path of file" category="ArcGISBook" image="Images\FeatureLayerInspector.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

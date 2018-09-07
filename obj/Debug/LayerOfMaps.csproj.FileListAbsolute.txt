@@ -1,0 +1,9 @@
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\obj\Debug\LayerOfMaps.Message.resources
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\obj\Debug\LayerOfMaps.csproj.GenerateResource.Cache
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\obj\Debug\LayerOfMaps.csproj.CoreCompileInputs.cache
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\bin\Debug\LayerOfMaps.dll
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\bin\Debug\LayerOfMaps.pdb
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\obj\Debug\LayerOfMaps.dll
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\obj\Debug\LayerOfMaps.pdb
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\obj\Debug\LayerOfMaps.csprojResolveAssemblyReference.cache
+E:\Dolezal\VisualStudio\LayerOfMaps\LayerOfMaps\bin\Debug\LayerOfMaps.esriAddIn
